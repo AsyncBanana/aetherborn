@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# Aetherborn
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Aetherborn is an origin that is designed for The Aether Reborn. It is focused on mobility, with significant speed improvements and the ability to spawn with an Elytra. However, there are many limitations to balance it out. You can look at the power list in the Origins prompt.
