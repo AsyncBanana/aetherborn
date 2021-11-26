@@ -1,0 +1,18 @@
+{
+  "icon": "the_aether:blue_aercloud",
+  "impact": 3,
+  "order": 0,
+  "powers": [
+    "origins:fall_immunity",
+    "origins:elytra",
+    "origins:claustrophobia",
+    "origins:aerial_combatant",
+    "origins:fresh_air",
+    "origins:tailwind",
+    "origins:more_exhaustion",
+    "aetherborn:aether_armor_only",
+    "aetherborn:spawn_in_aether",
+    "aetherborn:fast_flying",
+    "aetherborn:wisp"
+  ]
+}

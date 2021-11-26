@@ -1,0 +1,6 @@
+{
+  "type": "origins:modify_player_spawn",
+  "dimension": "the_aether:the_aether",
+  "dimension_distant_multiplier": 0.05882352941,
+  "structure": "the_aether:skyroot_tower"
+}

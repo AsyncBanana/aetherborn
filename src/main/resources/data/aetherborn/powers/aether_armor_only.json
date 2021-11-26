@@ -1,0 +1,15 @@
+{
+    "type": "origins:restrict_armor",
+    "head": {
+        "type": "aetherborn:aether_armor"
+    },
+    "chest": {
+        "type": "aetherborn:aether_armor"
+    },
+    "legs": {
+        "type": "aetherborn:aether_armor"
+    },
+    "feet": {
+        "type": "aetherborn:aether_armor"
+    }
+}

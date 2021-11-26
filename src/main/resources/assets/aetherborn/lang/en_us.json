@@ -1,0 +1,12 @@
+{
+  "origin.aetherborn.aetherborn.name": "Aetherborn",
+  "origin.aetherborn.aetherborn.description": "A being native to the Aether",
+  "power.aetherborn.aether_armor_only.name": "Warrior of the Aether",
+  "power.aetherborn.aether_armor_only.description": "You are a warrior of the Aether, and only armor from the Aether fits you.",
+  "power.aetherborn.spawn_in_aether.name": "Aether Native",
+  "power.aetherborn.spawn_in_aether.description": "You are a native to the Aether, and start near a Skyroot tower.",
+  "power.aetherborn.fast_flying.name": "Expert flying",
+  "power.aetherborn.fast_flying.description": "You fly faster than normal with an Elytra.",
+  "power.aetherborn.wisp.name": "Wisp",
+  "power.aetherborn.wisp.description": "You are slightly blue and translucent."
+}

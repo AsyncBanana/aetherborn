@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "aetherborn",
+  "version": "1.0.0",
+
+  "name": "Aetherborn",
+  "description": "An origin for The Aether",
+  "authors": [
+    "AsyncBanana"
+  ],
+  "contact": {
+
+  },
+
+  "license": "MIT",
+  "icon": "assets/aetherborn/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.asyncbanana.aetherborn.Aetherborn"]
+  },
+  "mixins": [
+    "aetherborn.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "minecraft": "1.17.x",
+    "java": ">=16",
+    "origins": ">=1.1.4",
+    "the_aether": ">=1.5.0"
+  },
+  "suggests": {
+  }
+}
